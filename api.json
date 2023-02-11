@@ -3,232 +3,450 @@
     {
       "question": "Backyard",
       "id": "1",
-      "answer": "Backyard: a small area of land immediately adjacent to a house, typically used for recreational or gardening purposes. Example: She spent the summer relaxing in her backyard, reading and gardening."
+      "answer": "Backyard: a small area of land immediately adjacent to a house, typically used for recreational or gardening purposes. Example: She spent the summer relaxing in her backyard, reading and gardening.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Jewelry",
       "id": "2",
-      "answer": "Jewelry: decorative items worn for personal adornment, such as necklaces, bracelets, and earrings. Example: She was wearing a stunning piece of jewelry, a diamond necklace, to the black-tie event."
+      "answer": "Jewelry: decorative items worn for personal adornment, such as necklaces, bracelets, and earrings. Example: She was wearing a stunning piece of jewelry, a diamond necklace, to the black-tie event.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Approach",
       "id": "3",
-      "answer": "Approach: a method or way of doing something. Example: The company adopted a new approach to customer service, putting the customer's needs first."
+      "answer": "Approach: a method or way of doing something. Example: The company adopted a new approach to customer service, putting the customer's needs first.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Headhunter",
       "id": "4",
-      "answer": "Headhunter: a person or company that specializes in finding and recruiting employees for job vacancies. Example: She hired a headhunter to help her find a new job in the tech industry."
+      "answer": "Headhunter: a person or company that specializes in finding and recruiting employees for job vacancies. Example: She hired a headhunter to help her find a new job in the tech industry.",
+      "mode": "difficult",
+      "type": "words"
     },
     {
       "question": "Focused",
       "id": "",
-      "answer": "Focused: paying close attention to something and devoting all one's efforts to it. Example: He was so focused on his work that he didn't notice when his lunch break had ended."
+      "answer": "Focused: paying close attention to something and devoting all one's efforts to it. Example: He was so focused on his work that he didn't notice when his lunch break had ended.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Pretend",
       "id": "6",
-      "answer": "Pretend: to act as if something is true or real, even though it is not. Example: The children were pretending to be pirates, searching for treasure in the backyard."
+      "answer": "Pretend: to act as if something is true or real, even though it is not. Example: The children were pretending to be pirates, searching for treasure in the backyard.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Sticks",
       "id": "7",
-      "answer": "Sticks: thin pieces of wood. Example: She collected a bundle of sticks to build a campfire."
+      "answer": "Sticks: thin pieces of wood. Example: She collected a bundle of sticks to build a campfire.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Rocks",
       "id": "8",
-      "answer": "Rocks: solid, naturally occurring substances composed of minerals. Example: She collected a basket of interesting rocks from the beach to display on her bookshelf."
+      "answer": "Rocks: solid, naturally occurring substances composed of minerals. Example: She collected a basket of interesting rocks from the beach to display on her bookshelf.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Despise",
       "id": "9",
-      "answer": "Despise: to dislike intensely and feel contempt or aversion for. Example: He despises liars and always tries to surround himself with honest people."
+      "answer": "Despise: to dislike intensely and feel contempt or aversion for. Example: He despises liars and always tries to surround himself with honest people.",
+      "mode": "difficult",
+      "type": "words"
     },
     {
       "question": "Destination",
       "id": "10",
-      "answer": "Destination: a place to which a person is traveling or intends to go. Example: Their destination for their honeymoon was a tropical island in the Pacific."
+      "answer": "Destination: a place to which a person is traveling or intends to go. Example: Their destination for their honeymoon was a tropical island in the Pacific.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Devote",
       "id": "11",
-      "answer": "Devote: to dedicate or commit time, energy, or resources to something. Example: She devoted herself to learning a new language, spending hours each day practicing."
+      "answer": "Devote: to dedicate or commit time, energy, or resources to something. Example: She devoted herself to learning a new language, spending hours each day practicing.",
+      "mode": "difficult",
+      "type": "words"
     },
     {
       "question": "Fear",
       "id": "12",
-      "answer": "Fear: an unpleasant emotion caused by the perception of danger or threat. Example: She had a fear of flying and always took a sedative before getting on a plane."
+      "answer": "Fear: an unpleasant emotion caused by the perception of danger or threat. Example: She had a fear of flying and always took a sedative before getting on a plane.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Scary",
       "id": "13",
-      "answer": "Scary: causing fear or alarm. Example: The old, abandoned house was considered the scariest place in town."
+      "answer": "Scary: causing fear or alarm. Example: The old, abandoned house was considered the scariest place in town.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Frighten",
       "id": "14",
-      "answer": "Frighten: to scare or alarm someone. Example: The loud noise frightened the cat, causing it to run under the bed."
+      "answer": "Frighten: to scare or alarm someone. Example: The loud noise frightened the cat, causing it to run under the bed.",
+      "mode": "difficult",
+      "type": "words"
     },
     {
       "question": "Bizarre",
       "id": "15",
-      "answer": "Bizarre: strange, unusual, or unexpected. Example: The bizarre dream he had last night was filled with flying pigs and talking trees."
+      "answer": "Bizarre: strange, unusual, or unexpected. Example: The bizarre dream he had last night was filled with flying pigs and talking trees.",
+      "mode": "difficult",
+      "type": "words"
     },
     {
       "question": "Astrology",
       "id": "16",
-      "answer": "Astrology: a belief system that studies the movements and relative positions of celestial bodies, such as the sun, moon, and stars, to understand human affairs and natural phenomena. Example: She was very interested in astrology and always read her horoscope in the newspaper."
+      "answer": "Astrology: a belief system that studies the movements and relative positions of celestial bodies, such as the sun, moon, and stars, to understand human affairs and natural phenomena. Example: She was very interested in astrology and always read her horoscope in the newspaper.",
+      "mode": "difficult",
+      "type": "words"
     },
     {
       "question": "Tarot",
       "id": "17",
-      "answer": "Tarot: a set of cards used for divination and fortune-telling. Example: She visited a tarot reader to gain insight into her future."
+      "answer": "Tarot: a set of cards used for divination and fortune-telling. Example: She visited a tarot reader to gain insight into her future.",
+      "mode": "difficult",
+      "type": "words"
     },
     {
       "question": "Demanding",
       "id": "18",
-      "answer": "Demanding: requiring a lot of effort, time, or attention. Example: The new project was demanding, requiring him to work long hours and make many sacrifices."
+      "answer": "Demanding: requiring a lot of effort, time, or attention. Example: The new project was demanding, requiring him to work long hours and make many sacrifices.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Flapping",
       "id": "19",
-      "answer": "Flapping: moving rapidly up and down or back and forth. Example: The flag was flapping in the wind, making a loud slapping sound."
+      "answer": "Flapping: moving rapidly up and down or back and forth. Example: The flag was flapping in the wind, making a loud slapping sound.",
+      "mode": "difficult",
+      "type": "words"
     },
     {
       "question": "Crush",
       "id": "20",
-      "answer": "Crush: a strong feeling of admiration and affection towards someone, often accompanied by romantic or sexual desire. Example: She had a crush on her best friend's older brother but never told him."
+      "answer": "Crush: a strong feeling of admiration and affection towards someone, often accompanied by romantic or sexual desire. Example: She had a crush on her best friend's older brother but never told him.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Flustered",
       "id": "21",
-      "answer": "Flustered: feeling nervous, confused, or embarrassed. Example: She became flustered when she realized she had forgotten her keys at home and was running late for work."
+      "answer": "Flustered: feeling nervous, confused, or embarrassed. Example: She became flustered when she realized she had forgotten her keys at home and was running late for work.",
+      "mode": "difficult",
+      "type": "words"
     },
     {
       "question": "Addict",
       "id": "22",
-      "answer": "Addict: a person who is addicted to a particular substance or activity. Example: He was a recovering addict, having overcome a severe addiction to opioids."
+      "answer": "Addict: a person who is addicted to a particular substance or activity. Example: He was a recovering addict, having overcome a severe addiction to opioids.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Glamorous",
       "id": "23",
-      "answer": "Glamorous: having a stylish, attractive, or exciting quality. Example: The life of a movie star was often portrayed as glamorous and filled with luxury."
+      "answer": "Glamorous: having a stylish, attractive, or exciting quality. Example: The life of a movie star was often portrayed as glamorous and filled with luxury.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Brilliant",
       "id": "24",
-      "answer": "Brilliant: very intelligent or talented, or producing intense light. Example: She was a brilliant scientist, known for her groundbreaking work in renewable energy."
+      "answer": "Brilliant: very intelligent or talented, or producing intense light. Example: She was a brilliant scientist, known for her groundbreaking work in renewable energy.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Blunder",
       "id": "25",
-      "answer": "Blunder: a mistake, especially a foolish or embarrassing one. Example: His mistake was a blunder, causing him to miss an important deadline."
+      "answer": "Blunder: a mistake, especially a foolish or embarrassing one. Example: His mistake was a blunder, causing him to miss an important deadline.",
+      "mode": "difficult",
+      "type": "words"
     },
     {
       "question": "Stumped",
       "id": "26",
-      "answer": "Stumped: unable to think of an answer or solution. Example: She was stumped by the difficult math problem and asked her teacher for help."
+      "answer": "Stumped: unable to think of an answer or solution. Example: She was stumped by the difficult math problem and asked her teacher for help.",
+      "mode": "difficult",
+      "type": "words"
     },
     {
       "question": "Nerve-racking",
       "id": "27",
-      "answer": "Nerve-racking: causing anxiety or stress. Example: The job interview was nerve-racking, and she felt like she was being evaluated the entire time."
+      "answer": "Nerve-racking: causing anxiety or stress. Example: The job interview was nerve-racking, and she felt like she was being evaluated the entire time.",
+      "mode": "difficult",
+      "type": "words"
     },
     {
       "question": "Glance",
       "id": "28",
-      "answer": "Glance: a quick or brief look. Example: She glanced at her phone and saw that she had a new message."
+      "answer": "Glance: a quick or brief look. Example: She glanced at her phone and saw that she had a new message.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Inexcusable",
       "id": "29",
-      "answer": "Inexcusable: not able to be forgiven or justified. Example: The behavior of the employees was inexcusable, and they were immediately fired."
+      "answer": "Inexcusable: not able to be forgiven or justified. Example: The behavior of the employees was inexcusable, and they were immediately fired.",
+      "mode": "difficult",
+      "type": "words"
     },
     {
       "question": "Sip",
       "id": "30",
-      "answer": "Sip: to drink slowly or in small amounts. Example: She sipped her coffee, savoring the rich flavor."
+      "answer": "Sip: to drink slowly or in small amounts. Example: She sipped her coffee, savoring the rich flavor.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Side-tracked",
       "id": "31",
-      "answer": "Side-tracked: diverted from a main topic or focus. Example: The discussion was side-tracked when someone brought up a unrelated story."
+      "answer": "Side-tracked: diverted from a main topic or focus. Example: The discussion was side-tracked when someone brought up a unrelated story.",
+      "mode": "difficult",
+      "type": "words"
     },
     {
       "question": "fiddle",
       "id": "32",
-      "answer": "Fiddle: to play a musical instrument, such as a violin, or to make small adjustments or changes to something. Example: He enjoyed fiddling with his guitar and writing his own songs."
+      "answer": "Fiddle: to play a musical instrument, such as a violin, or to make small adjustments or changes to something. Example: He enjoyed fiddling with his guitar and writing his own songs.",
+      "mode": "medium",
+      "type": "words"
     },
     {
       "question": "Horoscope",
       "id": "33",
-      "answer": "Horoscope: a forecast of a person's future based on their astrological sign. Example: She read her horoscope every morning, hoping to get a glimpse of what the day had in store."
+      "answer": "Horoscope: a forecast of a person's future based on their astrological sign. Example: She read her horoscope every morning, hoping to get a glimpse of what the day had in store.",
+      "mode": "difficult",
+      "type": "words"
     },
     {
       "question": "Once in a blue moon",
       "id": "34",
-      "answer": "Once in a blue moon: an event that happens very rarely or only a few times in a lifetime. Example: Winning the lottery is a once in a blue moon occurrence."
+      "answer": "Once in a blue moon: an event that happens very rarely or only a few times in a lifetime. Example: Winning the lottery is a once in a blue moon occurrence.",
+      "mode": "",
+      "type": "idiom"
     },
     {
       "question": "To see eye to eye",
       "id": "35",
-      "answer": "To see eye to eye: to agree or have the same opinion. Example: They finally saw eye to eye on the issue after having a long and difficult discussion."
+      "answer": "To see eye to eye: to agree or have the same opinion. Example: They finally saw eye to eye on the issue after having a long and difficult discussion.",
+      "mode": "",
+      "type": "idiom"
     },
     {
       "question": "Call it a day",
       "id": "36",
-      "answer": "Call it a day: to stop working for the day or to end something. Example: It was already late, so they decided to call it a day and head home."
+      "answer": "Call it a day: to stop working for the day or to end something. Example: It was already late, so they decided to call it a day and head home.",
+      "mode": "",
+      "type": "idiom"
     },
     {
       "question": "To be broke",
       "id": "37",
-      "answer": "To be broke: to have no money. Example: She was broke after paying all her bills and had to skip lunch for the rest of the week."
+      "answer": "To be broke: to have no money. Example: She was broke after paying all her bills and had to skip lunch for the rest of the week.",
+      "mode": "",
+      "type": "idiom"
     },
     {
       "question": "To cut corners",
       "id": "38",
-      "answer": "To cut corners: to save money or time by doing something in a cheaper or quicker but less thorough or efficient way. Example: The company was cutting corners on safety measures, causing concern among employees."
+      "answer": "To cut corners: to save money or time by doing something in a cheaper or quicker but less thorough or efficient way. Example: The company was cutting corners on safety measures, causing concern among employees.",
+      "mode": "",
+      "type": "idiom"
     },
     {
       "question": "Add insult to injury",
       "id": "39",
-      "answer": "Add insult to injury: to make a bad situation even worse. Example: The team lost the game and then their coach criticized their performance, adding insult to injury."
+      "answer": "Add insult to injury: to make a bad situation even worse. Example: The team lost the game and then their coach criticized their performance, adding insult to injury.",
+      "mode": "",
+      "type": "idiom"
     },
     {
       "question": "To cost an arm and leg",
       "id": "40",
-      "answer": "To cost an arm and leg: to be very expensive. Example: The new car was nice, but it cost an arm and leg, making her think twice about buying it."
+      "answer": "To cost an arm and leg: to be very expensive. Example: The new car was nice, but it cost an arm and leg, making her think twice about buying it.",
+      "mode": "",
+      "type": "idiom"
     },
     {
       "question": "When pigs fly",
       "id": "41",
-      "answer": "When pigs fly: a phrase used to indicate that something is unlikely to happen. Example: I'll believe that when pigs fly, he said skeptically."
+      "answer": "When pigs fly: a phrase used to indicate that something is unlikely to happen. Example: I'll believe that when pigs fly, he said skeptically.",
+      "mode": "",
+      "type": "idiom"
     },
     {
       "question": "A piece of cake",
       "id": "42",
-      "answer": "A piece of cake: something that is very easy to do. Example: The test was a piece of cake, and she felt confident that she had done well."
+      "answer": "A piece of cake: something that is very easy to do. Example: The test was a piece of cake, and she felt confident that she had done well.",
+      "mode": "",
+      "type": "idiom"
     },
     {
       "question": "A stone's throw",
       "id": "43",
-      "answer": "A stone's throw: a very short distance. Example: The park was just a stone's throw away, and they decided to take a quick walk there."
+      "answer": "A stone's throw: a very short distance. Example: The park was just a stone's throw away, and they decided to take a quick walk there.",
+      "mode": "",
+      "type": "idiom"
     },
     {
       "question": "Knock on wood",
       "id": "44",
-      "answer": "Knock on wood: a phrase said to bring good luck or prevent bad luck, often accompanied by a physical action of knocking on a wooden object. Example: I hope my job interview goes well, she said, knocking on wood."
+      "answer": "Knock on wood: a phrase said to bring good luck or prevent bad luck, often accompanied by a physical action of knocking on a wooden object. Example: I hope my job interview goes well, she said, knocking on wood.",
+      "mode": "",
+      "type": "idiom"
     },
     {
       "question": "A blessing in disguise",
       "id": "45",
-      "answer": "A blessing in disguise: a situation that seems bad but actually turns out to be good. Example: Losing her job was a blessing in disguise, as she was able to start her own business and become more successful."
+      "answer": "A blessing in disguise: a situation that seems bad but actually turns out to be good. Example: Losing her job was a blessing in disguise, as she was able to start her own business and become more successful.",
+      "mode": "",
+      "type": "idiom"
     },
     {
       "question": "Sit tight",
       "id": "46",
-      "answer": "Sit tight: to wait calmly and patiently without making any sudden moves. Example: The stock market was volatile, so she was told to sit tight and not make any impulsive decisions."
+      "answer": "Sit tight: to wait calmly and patiently without making any sudden moves. Example: The stock market was volatile, so she was told to sit tight and not make any impulsive decisions.",
+      "mode": "",
+      "type": "idiom"
+    },
+    {
+      "question": "Diagnose",
+      "id": "47",
+      "answer": "",
+      "mode": "medium",
+      "type": "words"
+    },
+    {
+      "question": "Infestion",
+      "id": "48",
+      "answer": "",
+      "mode": "difficult",
+      "type": "words"
+    },
+    {
+      "question": "Surgery",
+      "id": "49",
+      "answer": "",
+      "mode": "difficult",
+      "type": "words"
+    },
+    {
+      "question": "Obsessive",
+      "id": "50",
+      "answer": "",
+      "mode": "difficult",
+      "type": "words"
+    },
+    {
+      "question": "Under the weather",
+      "id": "51",
+      "answer": "",
+      "mode": "",
+      "type": "idiom"
+    },
+    {
+      "question": "Bite the bullet",
+      "id": "52",
+      "answer": "",
+      "mode": "",
+      "type": "idiom"
+    },
+    {
+      "question": "Beat around the bush",
+      "id": "53",
+      "answer": "",
+      "mode": "",
+      "type": "idiom"
+    },
+    {
+      "question": "Make a long story short",
+      "id": "54",
+      "answer": "",
+      "mode": "",
+      "type": "idiom"
+    },
+    {
+      "question": "Secretive",
+      "id": "55",
+      "answer": "",
+      "mode": "",
+      "type": "words"
+    },
+    {
+      "question": "Protective ",
+      "id": "56",
+      "answer": "",
+      "mode": "",
+      "type": "words"
+    },
+    {
+      "question": "self-confidence",
+      "id": "57",
+      "answer": "",
+      "mode": "",
+      "type": "words"
+    },
+    {
+      "question": "big-headed ",
+      "id": "58",
+      "answer": "",
+      "mode": "",
+      "type": "words"
+    },
+    {
+      "question": "Arrogant ",
+      "id": "59",
+      "answer": "",
+      "mode": "",
+      "type": "words"
+    },
+    {
+      "question": "insecure",
+      "id": "60",
+      "answer": "",
+      "mode": "",
+      "type": "words"
+    },
+    {
+      "question": "self-esteem",
+      "id": "61",
+      "answer": "",
+      "mode": "",
+      "type": "words"
+    },
+    {
+      "question": "Assertive ",
+      "id": "62",
+      "answer": "",
+      "mode": "",
+      "type": "words"
+    },
+    {
+      "question": "Determined",
+      "id": "63",
+      "answer": "",
+      "mode": "",
+      "type": "words"
+    },
+    {
+      "question": "k",
+      "id": "64",
+      "answer": "",
+      "mode": "",
+      "type": "words"
     }
   ]
 }
