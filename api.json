@@ -235,217 +235,602 @@
       "question": "Once in a blue moon",
       "id": "34",
       "answer": "Once in a blue moon: an event that happens very rarely or only a few times in a lifetime. Example: Winning the lottery is a once in a blue moon occurrence.",
-      "mode": "",
+      "mode": "medium",
       "type": "idiom"
     },
     {
       "question": "To see eye to eye",
       "id": "35",
       "answer": "To see eye to eye: to agree or have the same opinion. Example: They finally saw eye to eye on the issue after having a long and difficult discussion.",
-      "mode": "",
+      "mode": "medium",
       "type": "idiom"
     },
     {
       "question": "Call it a day",
       "id": "36",
       "answer": "Call it a day: to stop working for the day or to end something. Example: It was already late, so they decided to call it a day and head home.",
-      "mode": "",
+      "mode": "medium",
       "type": "idiom"
     },
     {
       "question": "To be broke",
       "id": "37",
       "answer": "To be broke: to have no money. Example: She was broke after paying all her bills and had to skip lunch for the rest of the week.",
-      "mode": "",
+      "mode": "medium",
       "type": "idiom"
     },
     {
       "question": "To cut corners",
       "id": "38",
       "answer": "To cut corners: to save money or time by doing something in a cheaper or quicker but less thorough or efficient way. Example: The company was cutting corners on safety measures, causing concern among employees.",
-      "mode": "",
+      "mode": "difficult",
       "type": "idiom"
     },
     {
       "question": "Add insult to injury",
       "id": "39",
       "answer": "Add insult to injury: to make a bad situation even worse. Example: The team lost the game and then their coach criticized their performance, adding insult to injury.",
-      "mode": "",
+      "mode": "difficult",
       "type": "idiom"
     },
     {
       "question": "To cost an arm and leg",
       "id": "40",
       "answer": "To cost an arm and leg: to be very expensive. Example: The new car was nice, but it cost an arm and leg, making her think twice about buying it.",
-      "mode": "",
+      "mode": "difficult",
       "type": "idiom"
     },
     {
       "question": "When pigs fly",
       "id": "41",
       "answer": "When pigs fly: a phrase used to indicate that something is unlikely to happen. Example: I'll believe that when pigs fly, he said skeptically.",
-      "mode": "",
+      "mode": "difficult",
       "type": "idiom"
     },
     {
       "question": "A piece of cake",
       "id": "42",
       "answer": "A piece of cake: something that is very easy to do. Example: The test was a piece of cake, and she felt confident that she had done well.",
-      "mode": "",
+      "mode": "medium",
       "type": "idiom"
     },
     {
       "question": "A stone's throw",
       "id": "43",
       "answer": "A stone's throw: a very short distance. Example: The park was just a stone's throw away, and they decided to take a quick walk there.",
-      "mode": "",
+      "mode": "difficult",
       "type": "idiom"
     },
     {
       "question": "Knock on wood",
       "id": "44",
       "answer": "Knock on wood: a phrase said to bring good luck or prevent bad luck, often accompanied by a physical action of knocking on a wooden object. Example: I hope my job interview goes well, she said, knocking on wood.",
-      "mode": "",
+      "mode": "medium",
       "type": "idiom"
     },
     {
       "question": "A blessing in disguise",
       "id": "45",
       "answer": "A blessing in disguise: a situation that seems bad but actually turns out to be good. Example: Losing her job was a blessing in disguise, as she was able to start her own business and become more successful.",
-      "mode": "",
+      "mode": "difficult",
       "type": "idiom"
     },
     {
       "question": "Sit tight",
       "id": "46",
       "answer": "Sit tight: to wait calmly and patiently without making any sudden moves. Example: The stock market was volatile, so she was told to sit tight and not make any impulsive decisions.",
-      "mode": "",
+      "mode": "medium",
       "type": "idiom"
     },
     {
       "question": "Diagnose",
       "id": "47",
-      "answer": "",
+      "answer": "Diagnose - To identify a problem or disease by examining someone or something.Example: The doctor performed several tests to diagnose the patient's illness.",
       "mode": "medium",
       "type": "words"
     },
     {
-      "question": "Infestion",
+      "question": "Infestation",
       "id": "48",
-      "answer": "",
+      "answer": "Infestation - A situation in which a place is overrun with unwanted animals or insects. Example: The apartment had a severe ant infestation, and the residents had to call an exterminator.",
       "mode": "difficult",
       "type": "words"
     },
     {
       "question": "Surgery",
       "id": "49",
-      "answer": "",
+      "answer": "Surgery - A medical procedure in which an operation is performed on a person's body. Example: The patient needed surgery to remove a tumor from their lung.",
       "mode": "difficult",
       "type": "words"
     },
     {
       "question": "Obsessive",
       "id": "50",
-      "answer": "",
+      "answer": "Obsessive - Having an excessive and unhealthy preoccupation with something.Example: She had an obsessive need to clean and reorganize her apartment every day.",
       "mode": "difficult",
       "type": "words"
     },
     {
       "question": "Under the weather",
       "id": "51",
-      "answer": "",
-      "mode": "",
+      "answer": "Under the weather:  means to be feeling ill or not quite oneself.Example: I'm feeling a bit under the weather today, so I think I'll stay home and rest.",
+      "mode": "medium",
       "type": "idiom"
     },
     {
       "question": "Bite the bullet",
       "id": "52",
-      "answer": "",
-      "mode": "",
+      "answer": "Bite the bullet: endure a painful or difficult situation with bravery and without showing fear or hesitation. Example: I know the surgery will be painful, but you just have to bite the bullet and get it done.",
+      "mode": "difficult",
       "type": "idiom"
     },
     {
       "question": "Beat around the bush",
       "id": "53",
-      "answer": "",
-      "mode": "",
+      "answer": "Beat around the bush: means to avoid directly addressing a topic or question, usually by speaking in a vague or roundabout way. Example: Stop beating around the bush and just tell me whether or not you're going to help me with this project.",
+      "mode": "medium",
       "type": "idiom"
     },
     {
       "question": "Make a long story short",
       "id": "54",
-      "answer": "",
-      "mode": "",
+      "answer": "Make a long story short: means to summarize or condense a long, detailed story or explanation. Example: I could tell you the whole story about my trip to Europe, but to make a long story short, I had an amazing time and learned a lot.",
+      "mode": "difficult",
       "type": "idiom"
     },
     {
       "question": "Secretive",
       "id": "55",
-      "answer": "",
-      "mode": "",
+      "answer": "Secretive - Having a tendency to keep information or actions hidden from others.Example: He was known to be secretive about his personal life and rarely shared any details with others.",
+      "mode": "difficult",
       "type": "words"
     },
     {
       "question": "Protective ",
       "id": "56",
-      "answer": "",
-      "mode": "",
+      "answer": "Protective - Being concerned about the safety and well-being of someone or something and taking steps to guard against harm.Example: The mother bear was extremely protective of her cubs and would fiercely defend them from any perceived threat.",
+      "mode": "medium",
       "type": "words"
     },
     {
       "question": "self-confidence",
       "id": "57",
-      "answer": "",
-      "mode": "",
+      "answer": "Self-confidence - A belief in one's abilities, qualities, and judgment.Example: She had a high level of self-confidence and always felt comfortable speaking in front of large groups.",
+      "mode": "medium",
       "type": "words"
     },
     {
       "question": "big-headed ",
       "id": "58",
-      "answer": "",
-      "mode": "",
+      "answer": "Big-headed - Excessively boastful or vain about one's abilities or achievements.Example: He was criticized by his coworkers for being big-headed and constantly bragging about his successes.",
+      "mode": "difficult",
       "type": "words"
     },
     {
       "question": "Arrogant ",
       "id": "59",
-      "answer": "",
-      "mode": "",
+      "answer": "Arrogant - Having an attitude of superiority and self-importance. Example: The CEO's arrogant behavior made it difficult for employees to approach him with concerns or ideas.",
+      "mode": "difficult",
       "type": "words"
     },
     {
       "question": "insecure",
       "id": "60",
-      "answer": "",
-      "mode": "",
+      "answer": "Insecure - Lacking confidence or feeling uncertain about oneself.Example: She was insecure about her abilities and struggled with self-doubt.",
+      "mode": "difficult",
       "type": "words"
     },
     {
       "question": "self-esteem",
       "id": "61",
-      "answer": "",
-      "mode": "",
+      "answer": "Self-esteem - A person's overall sense of self-worth or personal value.Example: Low self-esteem can lead to negative thoughts and feelings about oneself.",
+      "mode": "difficult",
       "type": "words"
     },
     {
       "question": "Assertive ",
       "id": "62",
-      "answer": "",
-      "mode": "",
+      "answer": "Assertive - Confidently and forcefully expressing one's opinions, beliefs, or needs.Example: She was assertive in negotiations and was not afraid to speak up and ask for what she wanted.",
+      "mode": "difficult",
       "type": "words"
     },
     {
       "question": "Determined",
       "id": "63",
-      "answer": "",
-      "mode": "",
+      "answer": "Determined - Having a strong will and a commitment to achieve a goal.Example: He was determined to finish the race, even though he was tired and his legs were sore.",
+      "mode": "medium",
       "type": "words"
     },
     {
-      "question": "k",
+      "question": "I am not alive, but I can grow. I don't have lungs, but I need air. I don't have a mouth, but water kills me. What am I?",
       "id": "64",
-      "answer": "",
-      "mode": "",
+      "answer": "Fire",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",
+      "id": "65",
+      "answer": "A map",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "The more you take, the more you leave behind. What am I?",
+      "id": "66",
+      "answer": "Footsteps",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "I am light as a feather, yet the strongest man cannot hold me for much more than a minute. What am I?",
+      "id": "67",
+      "answer": "Breath",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "I have a heart that doesn't beat, a mouth that doesn't speak, and a bed that doesn't sleep. What am I?",
+      "id": "68",
+      "answer": " A river",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "I have a head and a tail but no body. What am I?",
+      "id": "69",
+      "answer": "A coin",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by almost every person. What am I?",
+      "id": "70",
+      "answer": "Pencil lead",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "What goes up but never comes down?",
+      "id": "71",
+      "answer": "Age",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What has a heart that doesn't beat?",
+      "id": "72",
+      "answer": "Artichoke",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "I am always in front of you, but can't be seen. What am I?",
+      "id": "73",
+      "answer": "Future",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What is so fragile that saying its name breaks it?",
+      "id": "74",
+      "answer": "Silence",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "I have branches, but no fruit, trunk or leaves. What am I?",
+      "id": "75",
+      "answer": "A bank",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What has a thumb and four fingers but is not a hand?",
+      "id": "76",
+      "answer": "A glove",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What begins with T, ends with T, and has T in it?",
+      "id": "77",
+      "answer": "Teapot",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What has a neck but no head, and wears a cap but has no hair?",
+      "id": "78",
+      "answer": "Bottle",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "What has four legs in the morning, two legs in the afternoon, and three legs in the evening?",
+      "id": "79",
+      "answer": "Human",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "What is at the end of a rainbow?",
+      "id": "80",
+      "answer": "The letter W",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What is full of holes but still holds water?",
+      "id": "81",
+      "answer": "A sponge",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What are two things people never eat before breakfast?",
+      "id": "82",
+      "answer": "Lunch and supper",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What has four wheels and flies?",
+      "id": "83",
+      "answer": "A garbage truck",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What has to be broken before you can use it?",
+      "id": "84",
+      "answer": "An egg",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What gets bigger when more is taken away?",
+      "id": "85",
+      "answer": "A hole",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What is black when you buy it, red when you use it, and gray when you throw it away?",
+      "id": "86",
+      "answer": "Charcoal",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "What goes through towns and over hills, but never moves?",
+      "id": "87",
+      "answer": "A road",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What has one eye but cannot see?",
+      "id": "88",
+      "answer": "A needle",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "What has two hands and a face, but no arms and legs?",
+      "id": "89",
+      "answer": "A clock",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "Where is the ocean the deepest?",
+      "id": "90",
+      "answer": "On the bottom",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "What State in the United States is High in the middle and round at the ends?",
+      "id": "91",
+      "answer": "Ohio.",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "What do tigers have that no other animals have?",
+      "id": "92",
+      "answer": "Baby tigers.",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "Why is number six afraid ?",
+      "id": "93",
+      "answer": "Because seven eight nine (seven ate nine)",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What did zero say to eight?",
+      "id": "94",
+      "answer": "Nice belt.",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "Which is the most self-centered letter of the alphabet?",
+      "id": "95",
+      "answer": "i (I)",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": " Which letter is always trying to find reasons?",
+      "id": "96",
+      "answer": "y (Why?)",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What letter of the alphabet has got lots of water?",
+      "id": "97",
+      "answer": "The C",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "What letter of the alphabet is always waiting in order?",
+      "id": "98",
+      "answer": "The Q. (queue)",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "What has two heads, four eyes, six legs and a tail?",
+      "id": "99",
+      "answer": " A horse and its rider",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "Which letter is not me?",
+      "id": "101",
+      "answer": "U",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": " Do you know why birds fly to south in the winter?",
+      "id": "102",
+      "answer": "Because it's too far to walk there.",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "Which room has no doors, no windows.",
+      "id": "103",
+      "answer": "A mushroom.",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What gets wetter as it dries?",
+      "id": "104",
+      "answer": "A towel",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "What do you call a witch at the beach?",
+      "id": "105",
+      "answer": "A sandwich",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What do you call a fish that only cares about himself?",
+      "id": "106",
+      "answer": "Selfish",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "What five-letter word becomes shorter when you add two letters to it?",
+      "id": "107",
+      "answer": "Short",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "Why can't a nose be twelve inches?",
+      "id": "108",
+      "answer": "Because then it would be a foot.",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "What has teeth but can't bite?",
+      "id": "109",
+      "answer": "A Comb",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "What a bee says when it gets in the hive?",
+      "id": "110",
+      "answer": " Hi Honey! I'm home!",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "They travel all over the world but end up in the corner, what are they?",
+      "id": "111",
+      "answer": "Stamps",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "What is the difference between a jeweler and a jailor?",
+      "id": "112",
+      "answer": "A jeweler sells watches. A jailer watches cells.",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "What did the fish say when he hit the wall?",
+      "id": "113",
+      "answer": "Dam!",
+      "mode": "difficult",
+      "type": "riddle"
+    },
+    {
+      "question": "What's brown and sticky?",
+      "id": "114",
+      "answer": "A stick!",
+      "mode": "medium",
+      "type": "riddle"
+    },
+    {
+      "question": "Myth",
+      "id": "115",
+      "answer": "Myth: A traditional story or belief, often of ancient origin, that explains the beliefs, practices, or natural phenomena of a culture. Example: The ancient Greek myth of the god Zeus.",
+      "mode": "difficult",
+      "type": "words"
+    },
+    {
+      "question": "Evidence",
+      "id": "116",
+      "answer": "Evidence: Information or facts that support a claim or belief. Example: Scientific studies provide evidence that smoking cigarettes can lead to lung cancer.",
+      "mode": "medium",
+      "type": "words"
+    },
+    {
+      "question": "Insufficient",
+      "id": "117",
+      "answer": "Insufficient: Not enough or inadequate. Example: The evidence presented in the case was insufficient to prove the defendant's guilt.",
+      "mode": "medium",
+      "type": "words"
+    },
+    {
+      "question": "Discomfort",
+      "id": "118",
+      "answer": "Discomfort: A feeling of physical or mental unease or pain. Example: After sitting in the same position for several hours, John began to feel discomfort in his back.",
+      "mode": "medium",
+      "type": "words"
+    },
+    {
+      "question": "Drowsiness",
+      "id": "119",
+      "answer": "Drowsiness: A state of feeling sleepy or lethargic. Example: After taking a medication that causes drowsiness, Mary felt too tired to drive safely.",
+      "mode": "medium",
+      "type": "words"
+    },
+    {
+      "question": "Minced",
+      "id": "120",
+      "answer": "Minced: Chopped or cut into very small pieces. Example: The recipe called for minced garlic, so Sarah used a sharp knife to chop it into tiny pieces.",
+      "mode": "difficult",
       "type": "words"
     }
   ]
